@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WFetz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WFetz\\.nuget\\packages"
+    ]
+  }
+}

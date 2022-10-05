@@ -1,0 +1,16 @@
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.exe
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.dll
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.csprojAssemblyReference.cache
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.dll
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+D:\Rider Projects\AlgorithmTheory\AlgorithmTheory\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
