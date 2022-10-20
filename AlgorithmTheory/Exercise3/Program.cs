@@ -8,7 +8,8 @@ namespace Execrise3
     {
         static void Main(string[] args)
         {
-            Task1.Execute();
+            //Task1.Execute();
+            Task4.Execute();
         }
 
         
